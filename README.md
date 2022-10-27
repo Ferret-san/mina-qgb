@@ -4,7 +4,13 @@ Celestia's Quantum Gravity Bridge (QGB) for Mina is a Celestia -> Mina message r
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [How it works](#how-it-works)
+
+## Overview
+
+![image](https://user-images.githubusercontent.com/31937514/198170015-5fec674a-c601-47c0-a516-e4faf82d3311.png)
+
 
 ## How it works
 
