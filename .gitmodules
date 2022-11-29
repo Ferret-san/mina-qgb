@@ -1,0 +1,3 @@
+[submodule "snarkyjs-sha256"]
+	path = snarkyjs-sha256
+	url = https://github.com/sCrypt-Inc/snarkyjs-sha256.git
